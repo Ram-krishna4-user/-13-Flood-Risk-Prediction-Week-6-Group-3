@@ -189,6 +189,11 @@ Lagged river levels, rolling averages, and elevation emerged as dominant predict
 * Map-based flood risk visualization
 * Filters: Month, Day, Flood Risk Category
 
+
+<img width="1413" height="773" alt="image" src="https://github.com/user-attachments/assets/f4384aea-2f34-4a87-a477-40e808cbc40f" />
+<img width="1386" height="758" alt="image" src="https://github.com/user-attachments/assets/c8014d9a-4f2c-474b-82ce-640925a2fd3e" />
+
+
 **Map Configuration:**
 
 * Latitude & Longitude with Aggregate Measures OFF
@@ -230,5 +235,3 @@ This project demonstrates a complete flood risk prediction framework by integrat
 
 
 
-<img width="1413" height="773" alt="image" src="https://github.com/user-attachments/assets/f4384aea-2f34-4a87-a477-40e808cbc40f" />
-<img width="1386" height="758" alt="image" src="https://github.com/user-attachments/assets/c8014d9a-4f2c-474b-82ce-640925a2fd3e" />
